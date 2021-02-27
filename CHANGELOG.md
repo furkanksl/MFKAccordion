@@ -1,3 +1,3 @@
-## [0.0.1] - TODO: Add release date.
+## [0.0.1] - 2021-02-27
 
-* TODO: Describe initial release.
+* Initial release for basic level Accordion List Widget named as MyAccordion Widget
